@@ -1,0 +1,8 @@
+{
+	"module":"m2terminimal",
+	"about":"Terminal handler",
+	"author":"Hezkore",
+	"version":"1.0.0",
+	"support":"http://hezkore.com",
+	"depends":["std"]
+}
